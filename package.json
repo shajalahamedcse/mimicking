@@ -1,18 +1,14 @@
 {
   "name": "mimicking-func",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
+  "description": "Mimic a function.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
+  "author": "shajalahamedcse@gmail.com",
   "license": "MIT",
   "devDependencies": {
-    "ava": "^0.25.0",
-    "mocha": "^5.2.0"
-  },
-  "dependencies": {
-    "mocha": "^4.0.1"
+      "mocha": "^5.2.0"
   }
 }

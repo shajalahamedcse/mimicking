@@ -3,7 +3,7 @@
 const defineProperty = Object.defineProperty;
 const propertyDescriptor = Object.getOwnPropertyDescriptor;
 
-const mimic = (to, from) => {
+const mimic= (to, from) => {
     //  Array of properties 
     const properties = Reflect.ownKeys(from);
 
